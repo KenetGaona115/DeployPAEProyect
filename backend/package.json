@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "E-comerce proyect to PAE class",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "nodemon ./bin/www"
   },
   "repository": {
     "type": "git",
