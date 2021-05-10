@@ -1,0 +1,31 @@
+{
+  "name": "Proyecto_PAE_2021-",
+  "version": "1.0.0",
+  "description": "E-comerce proyect to PAE class",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenetGaona115/Proyecto_PAE_2021-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenetGaona115/Proyecto_PAE_2021-/issues"
+  },
+  "homepage": "https://github.com/KenetGaona115/Proyecto_PAE_2021-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "joi": "^17.4.0",
+    "mongodb": "^3.6.4",
+    "node-modules": "^1.0.1",
+    "nodemon": "^2.0.7",
+    "parse-json": "^5.2.0"
+  }
+}
