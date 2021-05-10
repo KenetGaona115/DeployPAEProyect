@@ -1,0 +1,8 @@
+---
+applications:
+- name: ProyectoPAE
+  random-route: true
+  memory: 256M
+  buildpacks: 
+  - sdk-for-nodejs
+  path: .
